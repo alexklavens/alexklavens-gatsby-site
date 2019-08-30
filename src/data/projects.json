@@ -37,7 +37,6 @@
   {
     "title":"Google Sheets + Slack Schedule Checker",
     "github_link":"https://github.com/alexklavens/conncoll-cs-ta-slackbot",
-    "img_url":"/images/slack.png",
     "alt_text":"Slack and Google Sheets Logo. Source: BetterCloud.",
     "details":"For the Computer Science teaching assistant program at Connecticut College, I integrated Slack into our work flow and built a Slack bot from which employees could request copies of their schedules.",
     "languages":"Python##Slack API##Google Sheets API##Heroku"
