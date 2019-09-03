@@ -28,6 +28,14 @@ module.exports = {
         path: `${__dirname}/src/images/`
       },
     },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/src/data/tcvMarkdown`,
+        name: `tcvMarkdown`,
+      },
+    },
+  `gatsby-transformer-remark`,
   `gatsby-transformer-sharp`,
   `gatsby-plugin-sharp`
   ],
