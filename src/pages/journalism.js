@@ -104,7 +104,7 @@ export default () => (
   <JournalismSection>
     <h2 className={styles.journalismTitle}>The College Voice</h2>
 
-    <p className={styles.jDescription}>I was a editor and reporter for Connecticut College's newspaper<i>The College Voice</i>. As editor, I pitched stories, advised reporters and edited content.</p>
+    <p className={styles.jDescription}>I was a editor and reporter for Connecticut College's newspaper<i>The College Voice</i>. As editor, I pitched stories, advised reporters and edited content. I reported on topics including voyeurism, Title IX, embezzlement, and student government. </p>
 
 
     <NewsHighlight
@@ -116,7 +116,7 @@ export default () => (
     <NewsHighlight
       headline = "Utilizing Court Records: Embezzlement at Connecticut College"
       description = "In a series of articles, I reported on legal proceedings involving a former Connecticut College employee who pleaded guilty in November 2018 to embezzling nearly $200K from the College. I used federal court records and Freedom of Information Act requests in my reporting."
-      link1 = "http://thecollegevoice.org/2019/02/18/mike-kmecs-lawyers-get-court-deadlines-postponed-claiming-medication-may-have-influenced-embezzlement/"
+      link1 = "/tcv/2019-02-18/kmec"
       borderBottomm="none"
     />
 
@@ -130,7 +130,7 @@ export default () => (
 
 
   </JournalismSection>
-{/* 
+{/*
   <JournalismSection >
     <h2 className={styles.journalismTitle}>Those Damn Americans (Freshair.org.uk)</h2>
     <p className={styles.jDescription}> During Fall 2017, I co-hosted a radio show with Camden Bickel at Edinburgh University's FreshAir.org.uk. </p>
