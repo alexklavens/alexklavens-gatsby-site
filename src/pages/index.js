@@ -42,7 +42,7 @@ const HomePage = ({data}) => {
       {/* <LayoutSorta> */}
           {/* <p className={styles.mainText}>Hi there, I'm Alex.</p> */}
           <p className={styles.mainText}> I’m a recent graduate of Connecticut College with a degree in Computer Science and Government.</p>
-          <p className={styles.mainText}>I have experience in radio and <a className={styles.jLink} href="/journalism">print journalism</a>, political research, data analysis, and <a className={styles.softwareLink} href="/projects">software development</a>.</p>
+          <p className={styles.mainText}>I have experience in radio and print <a className={styles.jLink} href="/journalism">journalism</a>, political research, data analysis, and <a className={styles.softwareLink} href="/projects">software development</a>.</p>
           <p className={styles.mainText}>Now I’m looking for software development opportunities at the intersection of technology, journalism, and politics.</p>
         {/* </LayoutSorta> */}
 
