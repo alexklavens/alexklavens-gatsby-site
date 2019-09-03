@@ -31,7 +31,7 @@ export default props => (
     <p className={styles.tcvDescription}>{props.description}</p>
   {/* <br/> */}
   <p>
-    <a className={styles.tcvLink} href={props.link1} target="__blank">Read more</a>
+    <a className={styles.tcvLink} href={props.link1}>Read more</a>
 </p>
 {/* <p className={styles.linesplit}>_________________________________________________________________</p> */}
 
