@@ -8,10 +8,10 @@ export default () => (
   <div>
   <div className={styles.allIntroHeader}>
   <h2 className={styles.headline}>College Administrators Missed Key Digital Evidence in Months-Long Voyeurism Investigation</h2>
-  <p className={styles.byLine}>Alex Klavens & Jacee Cox </p>
+  <p className={styles.byLine}>Jacee Cox & Alex Klavens</p>
   &nbsp;•&nbsp;
   <p className={styles.date}> May 17, 2019</p>
-  <p className={styles.articleLink}>This page is the full text of an article that appears <a href="http://thecollegevoice.org/2019/05/17/college-administrators-missed-key-digital-evidence-in-months-long-voyeurism-investigation/" target="_blank">in The College Voice.</a></p>
+  <p className={styles.articleLink}>This page is the full text of an article that appeared in <a href="http://thecollegevoice.org/2019/05/17/college-administrators-missed-key-digital-evidence-in-months-long-voyeurism-investigation/" target="_blank">The College Voice.</a></p>
 <p className={styles.linesplit}>_______________________________________</p>
 
   </div>

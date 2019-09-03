@@ -104,7 +104,7 @@ export default () => (
   <JournalismSection>
     <h2 className={styles.journalismTitle}>The College Voice</h2>
 
-    <p className={styles.jDescription}>I was an editor and reporter for The College Voice news section. As editor, I pitched stories, advised reporters and edited content.</p>
+    <p className={styles.jDescription}>I was a editor and reporter for Connecticut College's newspaper<i>The College Voice</i>. As editor, I pitched stories, advised reporters and edited content.</p>
 
 
     <NewsHighlight
@@ -124,23 +124,18 @@ export default () => (
       textAlign: `center`,
       margin: `20px`
     }}>
-      <a className={styles.tcvButton} href="/theCollegeVoice">All <i>The College Voice</i> articles</a>
+      <a className={styles.tcvButton} href="/theCollegeVoice">More from <i>The College Voice</i></a>
     </div>
 
 
 
   </JournalismSection>
-
-  <JournalismSection>
+{/* 
+  <JournalismSection >
     <h2 className={styles.journalismTitle}>Those Damn Americans (Freshair.org.uk)</h2>
     <p className={styles.jDescription}> During Fall 2017, I co-hosted a radio show with Camden Bickel at Edinburgh University's FreshAir.org.uk. </p>
 
-    {/* <Radio
-      date = "August 11, 2017 08:00"
-      body = "Radio Show"
-      iframe_link = "https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&light=1&feed=%2Falex-klavens%2Fthose-damn-americans-episode-1-10102017%2F"
 
-    /> */}
 
     <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&light=1&feed=%2Falex-klavens%2Fthose-damn-americans-episode-1-10102017%2F" frameborder="0" ></iframe>
       <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&light=1&feed=%2Falex-klavens%2Fthose-damn-americans-episode-2-17102017%2F" frameborder="0" ></iframe>
@@ -151,7 +146,7 @@ export default () => (
 
 
   </JournalismSection>
-
+ */}
 
 
 

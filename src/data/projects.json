@@ -12,7 +12,7 @@
   {
       "title" : "Hospital Closure Map",
       "description" : "A web-scraping effort and data visualization focusing on rural hospital closures",
-      "details" : "This is a data analysis, and visualization project focused on rural hospital closures in the United States. During my internship at WBUR, I reported on the MA Attorney General’s decision to not prosecute the former leaders of a western Massachusetts hospital that closed in 2014 with less than a week’s notice to employees. The experience inspired me to learn more about rural hospital closures. This project was also my first foray into web-based data visualizations using D3.js.",
+      "details" : "This is a data analysis, and visualization project focused on rural hospital closures in the United States. During my internship at WBUR, I reported on a decision by the Massachusetts Attorney General to not prosecute the former leaders of a Western Massachusetts hospital that closed in 2014 with less than a week’s notice to employees. The experience inspired me to learn more about rural hospital closures. This project was also my first foray into web-based data visualizations using D3.js.",
       "img_url" : "/images/hospital_preview.png",
       "alt_text" : "Screenshot of the map in this project.",
       "project_link" : "https://alexklavens.github.io/hospital-closure-map/",
@@ -22,13 +22,13 @@
   {
     "title":"alexklavens.github.io",
     "description":"A personal portfolio site.",
-    "details":"You’re looking at it! This is a personal website that I built with Gatsby.js, a static site generator based on React. This is my first project with Gatsby, and my first significant project using React. Most of the site is built with modular React components that pull in data from JSON files using GraphQL.",
+    "details":"You’re looking at it! This is a personal website that I built with Gatsby.js, a static site generator based on React. This is my first project with Gatsby, and my first significant project using React. Most of the site is built with modular components that pull in data from JSON files using GraphQL.",
     "github_link":"https://github.com/alexklavens/alexklavens.github.io",
     "languages":"Gatsby##React##GraphQL##HTML/CSS##GitHub Pages"
   },
   {  "title":"Presidential Speech Scraper & NLP",
     "description":"A computer science project focusing on web scraping and natural language processing of presidential documents",
-    "details":"A web scraper for the American Presidency Project, a massive online repository of presidential documents that has no programmatic accessibility. I created this for the purpose of accessing documents for a natural language processing research project.",
+    "details":"I developed a web scraper for a Computer Science research project that allows for programmatic accessibility of the American Presidency Project, a massive online repository of presidential documents. I created this for the purpose of accessing documents for a natural language processing research project.",
     "img_url":"/images/jfk.jpg",
     "alt_text":"Screen shot of the home page of the American Presidency Project's website.",
     "github_link":"https://github.com/alexklavens/presidential-speech-scraper",
@@ -45,7 +45,7 @@
     "title":"Skunkpocalypse",
     "img_url":"https://skunkpocalypse.weebly.com/uploads/4/4/0/3/44033907/capture_1_orig.png",
     "description":"A Unity-powered video game simulating a two-dimensional skunk apocoplypse",
-    "details":"For a video game development course, my partner and I built Skunkpocalypse, a agme created with Unity for a massive touchscreen in our school’s library. In Skunkpocalypse, Connecticut College has been overrun by Skunks (this is an actual problem at Conn). The user plays as Gustavo Ryan, a student who is charged with defeating these skunks, and eventually a boss skunk, by collecting and spraying perfume. <i>Please contact me if you'd like to get a playable copy of <a href='/skunk/Skunkpocalypse.app.zip' download>Skunkpocalypse.</i></a>",
+    "details":"For a video game development course, my partner and I built Skunkpocalypse, a game created with Unity for a massive touchscreen in our school’s library. In Skunkpocalypse, Connecticut College has been overrun by Skunks (this is an actual problem at Conn). The user plays as Gustavo Ryan, a student charged with defeating the skunks, and eventually a boss skunk, by collecting and spraying perfume.",
     "github_link":"https://github.com/alexklavens/skunkpocalypse",
     "custom_link":"Check out a <a href='https://skunkpocalypse.weebly.com' target='_blank'>class project site</a> for Skunkpocalypse, ",
     "languages":"C# ##Unity"
