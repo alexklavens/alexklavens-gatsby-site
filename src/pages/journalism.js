@@ -3,9 +3,7 @@ import Layout from "../components/layout"
 import Radio from "../components/radio"
 import NewsHighlight from "../components/newsHighlight"
 import JournalismSection from "../components/journalismSection"
-import SubSection from "../components/subSection"
 import { StaticQuery, graphql } from 'gatsby'
-import TCV from "../components/tcv"
 
 import styles from "../styles/journalism.module.css"
 

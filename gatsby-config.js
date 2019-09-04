@@ -41,7 +41,7 @@ module.exports = {
           // replace "UA-XXXXXXXXX-X" with your own Tracking ID
           trackingId: "UA-117106308-1",
         },
-      },
+    },
   `gatsby-transformer-remark`,
   `gatsby-transformer-sharp`,
   `gatsby-plugin-sharp`

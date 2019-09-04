@@ -8,26 +8,6 @@ import Education from "../components/education"
 
 import styles from "../styles/resumeMain.module.css"
 
-
-function getDescription(inString){
-  if (inString) {
-    const thisArray = inString.split("##");
-    const descriptionItemsArray = [];
-
-    thisArray.forEach (
-      item =>
-        descriptionItemsArray.push(
-          <li>{item}</li>
-        )
-    )
-
-    return descriptionItemsArray;
-  } else {
-    return ""
-  }
-
-}
-
 function arrayToListItems(inList) {
   if (inList) {
     const itemsArray = [];
