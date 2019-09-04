@@ -25,7 +25,7 @@ function ifDate(props){
 
 export default props => (
   <div className={styles.newsHighlightDiv}>
-    <a className={styles.titleLink} href={props.link1} target="__blank"><h2 className={styles.tcvHeadline}>{props.headline}</h2></a>
+    <a className={styles.titleLink} href={props.link1}><h2 className={styles.tcvHeadline}>{props.headline}</h2></a>
     {ifDate(props)}
     {/* <p className={styles.tcvDates}>{props.dates}</p> */}
     <p className={styles.tcvDescription}>{props.description}</p>

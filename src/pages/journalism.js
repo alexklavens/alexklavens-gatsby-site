@@ -130,25 +130,6 @@ export default () => (
 
 
   </JournalismSection>
-{/*
-  <JournalismSection >
-    <h2 className={styles.journalismTitle}>Those Damn Americans (Freshair.org.uk)</h2>
-    <p className={styles.jDescription}> During Fall 2017, I co-hosted a radio show with Camden Bickel at Edinburgh University's FreshAir.org.uk. </p>
-
-
-
-    <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&light=1&feed=%2Falex-klavens%2Fthose-damn-americans-episode-1-10102017%2F" frameborder="0" ></iframe>
-      <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&light=1&feed=%2Falex-klavens%2Fthose-damn-americans-episode-2-17102017%2F" frameborder="0" ></iframe>
-      <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&light=1&feed=%2Falex-klavens%2Fthose-damn-americans-episode-3-31102017%2F" frameborder="0" ></iframe>
-      <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&light=1&feed=%2Falex-klavens%2Fepisode-4-good-morning-stirling%2F" frameborder="0" ></iframe>
-      <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&light=1&feed=%2Falex-klavens%2Fthose-damn-americans-episode-5-sylvan-essozingy-orange-squash%2F" frameborder="0" ></iframe>
-
-
-
-  </JournalismSection>
- */}
-
-
 
   </Layout>
 )
