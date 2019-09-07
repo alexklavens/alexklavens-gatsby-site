@@ -11,7 +11,7 @@ export default () => (
   <p className={styles.byLine}>Jacee Cox & Alex Klavens</p>
   &nbsp;•&nbsp;
   <p className={styles.date}> May 17, 2019</p>
-  <p className={styles.articleLink}>This page is the full text of an article that appeared in <a href="http://thecollegevoice.org/2019/05/17/college-administrators-missed-key-digital-evidence-in-months-long-voyeurism-investigation/" target="_blank">The College Voice.</a></p>
+  <p className={styles.articleLink}>This page is the full text of an article that appeared in <a href="https://thecollegevoice.org/2019/05/17/college-administrators-missed-key-digital-evidence-in-months-long-voyeurism-investigation/" target="_blank">The College Voice.</a></p>
 <p className={styles.linesplit}>_______________________________________</p>
 
   </div>

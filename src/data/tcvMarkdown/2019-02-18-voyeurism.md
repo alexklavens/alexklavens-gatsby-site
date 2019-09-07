@@ -2,7 +2,7 @@
 path: "/tcv/2019-02-18/voyeurism"
 date: "2019-02-18"
 title: "Police Identify Voyeurism Suspect, Say There Were More Incidents Than Previously Reported"
-link: "http://thecollegevoice.org/2019/02/18/police-identify-voyeurism-suspect-say-there-were-more-incidents-than-previously-reported/"
+link: "https://thecollegevoice.org/2019/02/18/police-identify-voyeurism-suspect-say-there-were-more-incidents-than-previously-reported/"
 byline: "Alex Klavens"
 ---
 New London Police say they have identified and made contact with a 20 year-old male suspect in a months-long voyeurism investigation at the College surrounding five different reports of female students being photographed in shower changing areas. Based on evidence seized from multiple electronic devices belonging to the suspect, NLPD says the investigation has now expanded “to include more incidents than have been reported.”
