@@ -20,7 +20,7 @@
       "languages":"D3.js##GeoJSON##HTML/CSS##Python##RegEx"
   },
   {
-    "title":"alexklavens.github.io",
+    "title":"alexklavens.com",
     "description":"A personal portfolio site.",
     "details":"You’re looking at it! This is a personal website that I built with Gatsby.js, a static site generator based on React. This is my first project with Gatsby, and my first significant project using React. Most of the site is built with modular components that pull in data from JSON files using GraphQL.",
     "github_link":"https://github.com/alexklavens/alexklavens.github.io",

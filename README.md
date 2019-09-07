@@ -1,6 +1,6 @@
-# alexklavens.github.io
+# alexklavens.com
 
-This website is a personal portfolio site built with Gatsby.js and React.
+This website is a personal portfolio site built with Gatsby.js and React, deployed at [https://alexklavens.com](https://alexklavens.com).
 
 ## Hosting/Deployment
 

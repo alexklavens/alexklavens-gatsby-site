@@ -125,7 +125,7 @@ export default () => (
                             "C#"
                             ]}
       webDevelopment = {["React","Gatsby","Node","GraphQL","D3","Flask","Jinja"]}
-      tools = {["Git","Bash","Heroku", "Jira","Trello"]}
+      tools = {["Git","Bash","Netlify","Heroku", "Jira","Trello"]}
       apiUsed = {["Google Sheets API (Python)","Contentful API (Python)"]}
     />
 
