@@ -8,17 +8,21 @@ This project exists primarily as part of my professional online presence. It was
 
 So, here are a few goals of the project
 
-1. Create reusable components
+##### Create reusable components
   * Components for projects, news highlights, resume entries, and more.
-2. Separate data from components
+
+#####  Separate data from components
   * Much of the site's data is stored in JSON files
   * Components are dynamically instantiated by using GraphQL to pull in appropriate data from the JSON files.
-3. Replicate desired design from plans using CSS (and CSS modules)
+
+##### Replicate desired design from plans using CSS (and CSS modules)
   * Designed using CSS modules that tie design to components
-4. Mobile-friendly
+
+##### Mobile-friendly
   * Made site mobile-friendly using CSS media queries and a few JavaScript functions here and there.
   * Mobile site has dedicated navigation and page formatting
-5. Dynamic page generation of News Articles ([https://alexklavens.com/theCollegeVoice](https://alexklavens.com/theCollegeVoice))
+
+#####  Dynamic page generation of News Articles ([https://alexklavens.com/theCollegeVoice](https://alexklavens.com/theCollegeVoice))
   * On my [The College Voice Clips](https://alexklavens.com/theCollegeVoice) page, the user sees a series of article previews. All articles can be read within the website and are displayed by querying markdown files.
   * One article has its own dedicated page due to formatting issues.
 
