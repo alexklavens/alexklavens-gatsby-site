@@ -9,9 +9,9 @@ const HomePage = ({data}) => {
   return (
     <div>
       <Layout>
-          <p className={styles.mainText}> I’m a recent graduate of Connecticut College with a degree in Computer Science and Government.</p>
+          <p className={styles.mainText}> I'm a software engineer at <a className={styles.jLink} href="https://vigilant.cc" target="_blank">Vigilant</a> building public data access tools for political organizations, financial institutions, and journalists.</p>
+          <p className={styles.mainText}> I graduated from Connecticut College in May 2019 with a degree in Computer Science and Government.</p>
           <p className={styles.mainText}>I have experience in radio and print <a className={styles.jLink} href="/journalism">journalism</a>, political research, data analysis, and <a className={styles.softwareLink} href="/projects">software development</a>.</p>
-          <p className={styles.mainText}>Now I’m looking for software development opportunities at the intersection of technology, journalism, and politics.</p>
 
       </Layout>
     </div>
@@ -29,18 +29,3 @@ export const query = graphql`
   }
 `
 export default HomePage
-//
-// export default () => (
-//   <Layout>
-//     {/* <Header text="" /> */}
-//
-//     <div class='frontPage' style={{}}>
-//         I’m a recent graduate of Connecticut College with a degree in Computer Science and Government.
-//         <br /><br />
-//         I have experience in radio and print journalism, political research, data analysis, and software development
-//         <br /><br />
-//         Now I’m looking for software development opportunities at the intersection of technology, journalism, and politics.
-//
-//     </div>
-//   </Layout>
-// )

@@ -1,5 +1,12 @@
 [
   {
+    "companyName":"Vigilant",
+    "location":"New York, NY",
+    "jobTitle":"Junior Software Engineer",
+    "dates":"December 2019 - Present",
+    "description": "Building public data access tools for political organizations, journalists, and financial services institutions."
+  },
+  {
     "companyName":"TripAdvisor",
     "location":"Needham, MA",
     "jobTitle":"Data Analytics Intern",
